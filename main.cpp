@@ -6,7 +6,11 @@ int main(){
     cin>>a;
     cout<<"\n ingrese numero b:";
     cin>>b;
-    suma=a+b;
-    cout<<"\n la suma de "<<a<<"+"<<b<<" es:"<<suma;
+    cout<<"\n ingrese numero c:";
+    cin>>c;
+    cout<<"\n ingrese numero d:";
+    cin>>c;
+    suma=a+b+c+d;
+    cout<<"\n la suma de "<<a<<"+"<<b<<"+"<<"c"<<"+"<<"d"<<"es:"<<suma;
 return 0;
 }
