@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1510152369 source:c:\users\alumno-d\prog\hmwk\prog_2308\equipo\main.cpp
+	<iostream>
+	"Equipo.h"
+	"Jugador.h"
+	<string>
+
+1510152262 c:\users\alumno-d\prog\hmwk\prog_2308\equipo\include\equipo.h
+	<string>
+	<iostream>
+	"Jugador.h"
+
+1510152192 c:\users\alumno-d\prog\hmwk\prog_2308\equipo\include\jugador.h
+	<string>
+
